@@ -20,7 +20,7 @@ Passionate about solving technical issues, supporting users, and building real-w
 ### SQL Injection Lab
 
 - Identified how weak input validation leads to vulnerabilities
-- Used `OR 1=1` and `&& whoami` to simulate attacks
+- Used `OR 1=1` and `&& whoami` to simulate real-world attacks
 - Documented detection and prevention strategies
 
 ### Network Troubleshooting Lab (Cisco Packet Tracer)
@@ -38,4 +38,4 @@ Passionate about solving technical issues, supporting users, and building real-w
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/franciscafalaise/
+- LinkedIn: [franciscafalaise](https://www.linkedin.com/in/franciscafalaise/)
