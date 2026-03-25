@@ -1,6 +1,6 @@
 # Hi, I’m Francisca 👋
 
-Aspiring IT Support / Help Desk professional with hands-on experience in troubleshooting, networking, Active Directory, and security labs.
+Aspiring IT Support / Help Desk professional with hands-on experience in troubleshooting, networking, Active Directory, and security-focused labs.
 
 CompTIA A+ Certified | Per Scholas | WGU Student
 
@@ -18,11 +18,13 @@ Passionate about solving technical issues, supporting users, and building real-w
 ## Projects
 
 ### SQL Injection Lab
-- Demonstrated how weak input validation leads to vulnerabilities
+
+- Identified how weak input validation leads to vulnerabilities
 - Used `OR 1=1` and `&& whoami` to simulate attacks
 - Documented detection and prevention strategies
 
 ### Network Troubleshooting Lab (Cisco Packet Tracer)
+
 - Diagnosed and resolved wireless connectivity issues
 - Verified SSID, DHCP, router configuration, and IP addressing
 - Used `ping` and `ipconfig` to identify root cause
