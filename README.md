@@ -1,7 +1,7 @@
 # Hi, I’m Francisca 👋
 
 💻 IT Support | Help Desk | CompTIA A+  
-🎓 Per Scholas | WGU Computer Science  
+🎓 Per Scholas | WGU Information Technology 
 
 ---
 
