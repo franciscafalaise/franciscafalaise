@@ -6,12 +6,14 @@ CompTIA A+ Certified | Per Scholas | WGU Student
 
 🔍 Actively seeking Help Desk / IT Support roles
 
+Passionate about solving technical issues, supporting users, and building real-world IT skills through hands-on labs.
+
 ## Technical Skills
 - Active Directory (user management, password resets)
-- Troubleshooting (Windows, network, hardware)
+- Windows Troubleshooting (hardware, OS, performance)
 - Networking: IP, DHCP, DNS, ping, ipconfig
 - Remote Support: RDP
-- Tools: Microsoft 365, Git, Bash, Python, SQL
+- Tools: Microsoft 365, Git, Bash, SQL
 
 ## Projects
 
