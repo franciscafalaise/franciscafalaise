@@ -1,36 +1,29 @@
-# Hi, I’m Francisca 👋
+# Hi, I’m Francisca
 
-💻 IT Support | Help Desk | CompTIA A+  
-🎓 Per Scholas | WGU Information Technology 
+Aspiring IT Support / Help Desk professional with hands-on experience in troubleshooting, networking, Active Directory, and technical lab environments.
 
----
+CompTIA A+ certified | Per Scholas | WGU student
 
-## 🔧 Technical Skills
-- Active Directory (User management, password resets)
-- Troubleshooting (Windows, Network, Hardware)
-- Networking: IP, DHCP, DNS, Ping, ipconfig
+## Technical Skills
+- Active Directory (user management, password resets)
+- Troubleshooting (Windows, network, hardware)
+- Networking: IP, DHCP, DNS, ping, ipconfig
 - Remote Support: RDP
 - Tools: Microsoft 365, Git, Bash, Python, SQL
 
----
+## Projects
+### SQL Injection Lab
+- Investigated input validation weaknesses in a banking web application
+- Demonstrated how `OR 1=1` and `&& whoami` could expose vulnerabilities
+- Documented attacker perspective, detection ideas, and prevention steps
 
-## 📂 Projects
+### Network Troubleshooting Lab (Cisco Packet Tracer)
+- Diagnosed and resolved a wireless connectivity issue
+- Verified SSID, DHCP, router settings, and IP addressing
+- Used `ping` and `ipconfig` to isolate the root cause
+- Achieved 100% lab completion
 
-### 🛠️ Network Troubleshooting Lab (Cisco Packet Tracer)
-- Diagnosed and resolved wireless connectivity issues
-- Verified SSID + IP configuration
-- Used ping and ipconfig for troubleshooting
-- Fixed DHCP/router misconfiguration
-
-### 🌐 Website Project (HTML, CSS, JavaScript)
-- Built multi-page responsive website
-- Implemented shopping cart using sessionStorage
-- Used localStorage for form data handling
-- Tested/debugged using browser dev tools
-
----
-
-## 🎯 Currently
+## Currently
 - Studying for CompTIA Security+
 - Building hands-on IT labs
 - Seeking Help Desk / IT Support roles
