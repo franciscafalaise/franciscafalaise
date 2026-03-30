@@ -1,10 +1,10 @@
 # Hi, I’m Francisca 👋
 
-Aspiring IT Support / Help Desk professional with hands-on experience in troubleshooting, networking, Active Directory, and security-focused labs.
+IT Support / Cybersecurity professional with hands-on experience in troubleshooting, networking, Active Directory, and security-focused labs.
 
 CompTIA A+ Certified | Per Scholas | WGU Student
 
-🔍 Actively seeking Help Desk / IT Support roles
+🔍 Actively seeking Help Desk / SOC analyst roles
 
 Passionate about solving technical issues, supporting users, and building real-world IT skills through hands-on labs.
 
