@@ -1,8 +1,8 @@
 # Hi, I’m Francisca 👋
 
-IT Support / Cybersecurity professional with hands-on experience in troubleshooting, networking, Active Directory, and security-focused labs.
+Cybersecurity professional with hands-on experience in troubleshooting, networking, Active Directory, and security-focused labs.
 
-CompTIA A+ Certified | Per Scholas | WGU Student
+CompTIA A+ Certified | Per Scholas Alumni | WGU Student
 
 🔍 Actively seeking Help Desk / SOC analyst roles
 
