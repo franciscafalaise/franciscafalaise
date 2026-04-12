@@ -1,41 +1,64 @@
-# Hi, I’m Francisca 👋
+# 👋 Hi, I'm Francisca Falaise
 
-Cybersecurity professional with hands-on experience in troubleshooting, networking, Active Directory, and security-focused labs.
+🔐 SOC Analyst | SIEM Monitoring | Threat Detection | Incident Response
 
-CompTIA A+ Certified | Per Scholas Alumni | WGU Student
-
-🔍 Actively seeking Help Desk / SOC analyst roles
-
-Passionate about solving technical issues, supporting users, and building real-world IT skills through hands-on labs.
-
-## Technical Skills
-- Active Directory (user management, password resets)
-- Windows Troubleshooting (hardware, OS, performance)
-- Networking: IP, DHCP, DNS, ping, ipconfig
-- Remote Support: RDP
-- Tools: Microsoft 365, Git, Bash, SQL
-
-## Projects
-
-### SQL Injection Lab
-
-- Identified how weak input validation leads to vulnerabilities
-- Used `OR 1=1` and `&& whoami` to simulate real-world attacks
-- Documented detection and prevention strategies
-
-### Network Troubleshooting Lab (Cisco Packet Tracer)
-
-- Diagnosed and resolved wireless connectivity issues
-- Verified SSID, DHCP, router configuration, and IP addressing
-- Used `ping` and `ipconfig` to identify root cause
-- Achieved 100% lab completion
-
-## Currently
-- Studying for CompTIA Security+
-- Building hands-on IT labs
-- Expanding skills in networking and security
+I am a cybersecurity-focused IT professional with hands-on experience in detecting, analyzing, and responding to security events using SIEM tools and real-world lab simulations.
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [franciscafalaise](https://www.linkedin.com/in/franciscafalaise/)
+## 🚨 Core Skills
+
+* SIEM Monitoring (Elastic Stack, Kibana, Winlogbeat)
+* Log Analysis (Windows Event Logs, Event ID 4625)
+* Threat Detection & Alert Triage
+* Incident Response (Detection → Investigation → Containment)
+* Network Analysis (Wireshark, TCP/IP)
+* Vulnerability Scanning (Nmap)
+
+---
+
+## 🧪 Featured SOC Projects
+
+### 🔥 SOC Alert Triage & Incident Response Lab
+
+* Simulated brute-force and unauthorized access attacks
+* Detected suspicious login activity using SIEM (Event ID 4625)
+* Investigated logs and correlated events across systems
+* Executed containment actions (account lockout, IP blocking)
+* Documented incidents with structured response reports
+
+### 🔍 Elastic SIEM Lab (Windows Log Analysis)
+
+* Built SIEM environment using Elasticsearch, Kibana, Winlogbeat
+* Ingested and analyzed Windows security logs
+* Created dashboards to detect authentication anomalies
+* Identified brute-force attack patterns
+
+### 🛠️ SSH Brute Force Detection Lab
+
+* Simulated attack using Kali Linux
+* Analyzed authentication logs to detect intrusion attempts
+* Correlated attack patterns with SIEM alerts
+
+---
+
+## 🧰 Tools & Technologies
+
+* SIEM: Elastic Stack (Elasticsearch, Kibana)
+* OS: Windows, Linux (Ubuntu, Kali)
+* Networking: TCP/IP, DNS, VPN (WireGuard)
+* Security Tools: Nmap, Wireshark
+* Scripting: Python, Bash
+
+---
+
+## 📌 Goal
+
+Actively seeking a **SOC Analyst (Tier 1)** role where I can apply my skills in threat detection, incident response, and security monitoring to protect organizational systems.
+
+---
+
+## 📫 Let's Connect
+
+* LinkedIn: https://www.linkedin.com/in/franciscafalaise/
+* GitHub: https://github.com/franciscafalaise
